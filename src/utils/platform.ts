@@ -1,1 +1,1 @@
-export const PLATFORM = 'web'
+export const PLATFORM = 'web';
