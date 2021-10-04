@@ -12,7 +12,8 @@
     "build-storybook": "build-storybook",
     "prestorybook": "rnstl",
     "storybook:web": "./node_modules/@storybook/react/bin/index.js",
-    "storybook:native": "yarn storybook && yarn ios"
+    "storybook:native": "yarn storybook && yarn ios",
+    "start-obs": "open -n -a OBS.app"
   },
   "dependencies": {
     "react": "17.0.2",
